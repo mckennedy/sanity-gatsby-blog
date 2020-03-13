@@ -2,6 +2,7 @@
 @import '../styles/custom-properties.css';
 
 .root {
+  color: var(--color-white);
   position: relative;
   z-index: 100;
 }
